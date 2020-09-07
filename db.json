@@ -9,7 +9,7 @@
               "codigo_usuario": 5,
               "nome": "João Facilitador",
               "curriculo": "Especialista em especialidades especiais",
-              "imagem": "",
+              "imagem": null,
               "indicador_ativo": "S"
           },
           {
