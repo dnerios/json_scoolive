@@ -28,10 +28,10 @@
         "message": null,
         "data": {
             "codigo": 4,
-            "nome": null,
+            "nome": "João Administrador",
             "tipo_usuario": {
-                "codigo": 2,
-                "descricao": "Responsavel",
+                "codigo": 1,
+                "descricao": "Administrador",
                 "indicador_ativo": "S"
             },
             "email": "teste@teste.com.br",
