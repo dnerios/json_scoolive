@@ -1,50 +1,23 @@
 {
-    "api": [
-        {
-            "auth":{
-                "login": {
-                    "status": 200,
-                    "error": null,
-                    "message": null,
-                    "data": {
-                        "codigo": 4,
-                        "nome": "João Administrador",
-                        "tipo_usuario": {
-                            "codigo": 1,
-                            "descricao": "Administrador",
-                            "indicador_ativo": "S"
-                        },
-                        "email": "teste@teste.com.br",
-                        "indicador_ativo": "S",
-                        "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0IiwiZXhwIjoxNTk5NTkyODE4fQ.MZ-jl-SuKkNiAQ_xvKAL2-ERol1QrxWtAKYLyxvg4QcONcze7lpkoLtY-km3Cl9aUQZYxPPxrez3gMm4bK3yxw"
-                    }
-                }
-            }
-        },
-        {
-            "facilitador": {
+    "api": {
+        "auth":{
+            "login": {
                 "status": 200,
                 "error": null,
                 "message": null,
-                "data": [
-                    {
+                "data": {
+                    "codigo": 4,
+                    "nome": "João Administrador",
+                    "tipo_usuario": {
                         "codigo": 1,
-                        "codigo_usuario": 5,
-                        "nome": "João Facilitador",
-                        "curriculo": "Especialista em especialidades especiais",
-                        "imagem": null,
+                        "descricao": "Administrador",
                         "indicador_ativo": "S"
                     },
-                    {
-                        "codigo": 2,
-                        "codigo_usuario": 6,
-                        "nome": "Maria Facilitadora",
-                        "curriculo": null,
-                        "imagem": null,
-                        "indicador_ativo": "S"
-                    }
-                ]
+                    "email": "teste@teste.com.br",
+                    "indicador_ativo": "S",
+                    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0IiwiZXhwIjoxNTk5NTkyODE4fQ.MZ-jl-SuKkNiAQ_xvKAL2-ERol1QrxWtAKYLyxvg4QcONcze7lpkoLtY-km3Cl9aUQZYxPPxrez3gMm4bK3yxw"
+                }
             }
         }
-    ]
+    }
 }
