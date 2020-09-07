@@ -1,5 +1,5 @@
 {
-    "api/auth/login": {
+    "api\/auth\/login": {
         "status": 200,
         "error": null,
         "message": null,
@@ -16,7 +16,7 @@
             "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0IiwiZXhwIjoxNTk5NTkyODE4fQ.MZ-jl-SuKkNiAQ_xvKAL2-ERol1QrxWtAKYLyxvg4QcONcze7lpkoLtY-km3Cl9aUQZYxPPxrez3gMm4bK3yxw"
         }
     },
-    "api/facilitador": {
+    "api\/facilitador": {
         "status": 200,
         "error": null,
         "message": null,
