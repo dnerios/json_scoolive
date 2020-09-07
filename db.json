@@ -1,0 +1,17 @@
+{
+  "facilitador": {
+        "status": 200,
+        "error": null,
+        "message": null,
+        "data": [
+            {
+                "codigo": 1,
+                "codigo_usuario": 5,
+                "nome": "João Facilitador",
+                "curriculo": "Especialista em especialidades especiais",
+                "imagem": null,
+                "indicador_ativo": "S"
+            }
+        ]
+    }
+}
